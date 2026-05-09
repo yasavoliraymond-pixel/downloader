@@ -5,6 +5,7 @@
 - [mhrv-rs-android-arm64-v8a-v1.9.18](./mhrv-rs-android-arm64-v8a-v1.9.18)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [paqet-linux-amd64-v1.0.0-alpha.16.tar](./paqet-linux-amd64-v1.0.0-alpha.16.tar)
+- [x-ui-linux-amd64.tar](./x-ui-linux-amd64.tar)
 - [zyrln-1.4.0](./zyrln-1.4.0)
 
 ---
