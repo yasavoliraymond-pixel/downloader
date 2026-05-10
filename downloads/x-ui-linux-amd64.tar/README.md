@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `x-ui-linux-amd64.tar.gz` |
-| **Total Size** | **2 zip parts** - **67.98 MB** |
+| **Total Size** | **2 zip parts** - **51.26 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
